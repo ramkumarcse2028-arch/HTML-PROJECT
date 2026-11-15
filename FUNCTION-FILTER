@@ -1,0 +1,15 @@
+let arr = [1, 4, 6, 7, 9];
+/*let evenArr = arr.filter((val) => {
+    return val % 2 == 0;
+});
+console.log(evenArr); */
+
+/*let oddArr = arr.filter((val) => {
+    return val % 2 != 0;
+});
+console.log(oddArr); */
+
+let evenArr = arr.filter((val) => {
+    return val < 4;
+});
+console.log(evenArr);
