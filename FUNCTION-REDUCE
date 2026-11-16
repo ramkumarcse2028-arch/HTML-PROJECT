@@ -1,0 +1,20 @@
+/*let arr = [1, 4, 6, 3, 7];
+const output = arr.reduce((prev, curr) => {
+    return prev + curr;
+});
+console.log(output); */
+
+
+// largest number
+/*let arr = [1, 4, 6, 3, 7];
+const output = arr.reduce((prev, curr) => {
+    return prev > curr ? prev : curr;
+});
+console.log(output);*/
+
+// smallest  number
+let arr = [1, 4, 6, 3, 7];
+const output = arr.reduce((prev, curr) => {
+    return prev < curr ? prev : curr;
+});
+console.log(output);
