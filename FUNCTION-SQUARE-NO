@@ -1,0 +1,5 @@
+let num = [3, 6, 9, 2];
+let calSquare = (num) => {
+    console.log(num * num);
+};
+num.forEach(calSquare);
