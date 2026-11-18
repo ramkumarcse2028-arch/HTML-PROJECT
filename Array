@@ -1,0 +1,12 @@
+ let marks = [89, 90, 78, 67];
+ console.log(marks);
+ console.log(marks[0]);
+ console.log(marks[1]);
+ console.log(marks[2]);
+ console.log(marks[3]);
+ console.log(marks[4]); // will be difined becouse index 4 does not exit
+ marks[4] = 77; // Adding the new value in the array
+ marks[0] = 47; // Changing the new value in the array
+ console.log("The length of marks is ", marks.length);
+ console.log(marks);
+ console.log(typeof marks);
