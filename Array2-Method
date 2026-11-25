@@ -1,0 +1,22 @@
+//let num = [1, 2, 3, 4, 5, 7]
+// delete num[0]
+// console.log(num.length)
+/*let num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+let newArray = num.concat(num1)
+console.log(newArray)
+console.log(num, num1) // concat -> used to join arrays to the given arrays
+let num2 = [123,  342, 453, 765, 980, 760, 634, 264, 924]
+//let newArray = new.concat(num1, num2) */
+
+// sort method
+/*let num = [18, 12, 3, 4, 95, 17]
+num.sort() // most important method in the array
+console.log(num)*/
+
+let compare = (a, b) => {
+    // return a - b // asscending order
+    return b - a //dicending order
+}
+let num = [18, 12, 3, 4, 95, 17]
+num.sort(compare) // most important method in the array
+console.log(num)
