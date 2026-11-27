@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>scope if and else</title>
+</head>
+
+<body>
+    <div>
+        <ul>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+        </ul>
+    </div>
+    <script>
+        /*var string1 = "This is a string";
+                                var string1 = "This is a string2";
+                                console.log(string1);
+                                let a = "u"; {
+                                    let a = "u6";
+                                    console.log(a);
+                                }
+                                console.log(a); */
+        /* const a = "This can not be changed";
+        a = "I want to change this. this can not be change";
+        console.log(a); */
+
+        /* let age = 35;
+        if (age > 18) {
+            console.log("You can drink water");
+        }
+        else if(age==2){
+            console.log("Age is 2");
+        }
+        else if(age==6){
+            console.log("Age is 6");
+        }
+         else {
+            console.log("You can drink cold drink");
+        } */
+        const cups = 4;
+        switch (cups) {
+            case 4:
+                console.log("This value of cups is 4");
+                break;
+            case 5:
+                console.log("This value of cups is 5");
+                break;
+            case 6:
+                console.log("This value of cups is 6");
+                break;
+
+            default:
+                console.log("This value of cups is none of 4, 5, 6");
+
+                break;
+        }
+    </script>
+</body>
+
+</html>
