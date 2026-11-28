@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" constent="width=device,initial-scale.0">
+    <title>document</title>
+</head>
+
+<body>
+    <h1>the best html course by thapa technical</h1>
+    <h2>the best html course by thapa technical</h2>
+    <h3>the best html course by thapa technical</h3>
+    <h4>the best html course by thapa technical</h4>
+    <h5>the best html course by thapa technical</h5>
+    <h6>the best html course by thapa technical</h6>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html paragraph</title>
+</head>
+
+<body>
+    ram kumar vakvkdsealjSebank,DS
+    <p>this is <strong> importent </strong> and <em> emphasize </em> emphasize text.</p>
+    <hr/>
+    <p> this is <u> underlined </u> and <s> strikethrough </s> text. </p>
+    <hr/>
+    <p> the water -> H<sub>2</sub>O</p>
+    <hr/>
+    <p> theory of relativity -> e=mc<sup>2</sup></p>
+    <hr>
+    <p>
+        <abbr title="world helth organization">who</abbr> is an international organization.
+    </p>
+    <hr>
+    <p> higjligth <mark> this text </mark> to emphasize it.</p>
+    <hr>
+    <p> this is a <small> smaller font size</small> text.</p>
+    <hr/>
+    <p> my favorite color is <del> green </del> red.</p>
+    <hr/>
+    <p style="color:brown">
+        inline style is one of the way to style html content
+
+    </p>
+
+</body>
+
+</html>
